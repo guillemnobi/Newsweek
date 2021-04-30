@@ -106,6 +106,10 @@
   float: right!important;
 }
 
+.navbar {
+  margin-bottom: 0;
+}
+
 @media (min-width: 768px) {
   .topnav .navbar-right {
     margin-right: 0;
